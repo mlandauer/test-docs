@@ -8,10 +8,9 @@ Welcome to the development site for "openaustralia.org":http://www.openaustralia
 
 The Open Australia software consists of two main components, the web application which is based on code from the UK site theyworkforyou.com and a web scraper / parser which was written from scratch for downloading and parsing the Hansard data from the Australian Parliament website.
 
-All of the software is free and open source.
+All of the software is *free* and *open source*.
 
-The web application code is licensed under a "BSD type license":https://secure.mysociety.org/cvstrac/fileview?f=mysociety/twfy/LICENSE.txt&v=1.1.
-The web scraper / parser is licensed under the "GNU Affero General Public License":http://github.com/mlandauer/openaustralia-parser/tree/master%2FLICENSE.txt?raw=true.
+The web application code is licensed under a "BSD type license":https://secure.mysociety.org/cvstrac/fileview?f=mysociety/twfy/LICENSE.txt&v=1.1. The web scraper / parser is licensed under the "GNU Affero General Public License":http://github.com/mlandauer/openaustralia-parser/tree/master%2FLICENSE.txt?raw=true.
 
 h2. Mailing List
 
