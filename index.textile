@@ -20,8 +20,8 @@ h2. Bug Database
 
 *Latest news*: We've just migrated from "Trac":http://trac.edgewall.org/ to "Jira":http://www.atlassian.com/software/jira/ for maintaining a list of bugs and desired features. Everything is now available at "tickets.openaustralia.org":http://tickets.openaustralia.org/.
 
- * You can "view the tickets":http://tickets.openaustralia.org/browse/OA.
- * If you find a bug or want to suggest a new feature please "create a new ticket":http://tickets.openaustralia.org/secure/CreateIssue!default.jspa.
+* You can "view the tickets":http://tickets.openaustralia.org/browse/OA.
+* If you find a bug or want to suggest a new feature please "create a new ticket":http://tickets.openaustralia.org/secure/CreateIssue!default.jspa.
 
 Note that you will need to "signup":http://tickets.openaustralia.org/secure/Signup!default.jspa for an account before you can create or modify tickets.
 
